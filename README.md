@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilmy</h1>
-<h3 align="center">Bercita-cita Tinggi 🚀</h3>
+
 
 
 ![snake gif](https://github.com/Mhvanreal/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
